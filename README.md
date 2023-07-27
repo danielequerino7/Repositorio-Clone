@@ -1,2 +1,2 @@
-# Repositorio-Clone
-Clonando um repositório para acompanhamento da aula do curso de Git e Github.
+# Curso-GIT-e-GitHub
+Curso de GIT e GitHub, repositório usado para acompanhamento prático das aulas e testes de forma autônoma. 
